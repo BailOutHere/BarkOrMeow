@@ -1,0 +1,10 @@
+{
+  "Id": "BarkOrMeow",
+  "AssemblyPath": "BarkOrMeow.dll",
+  "Metadata": {
+    "Name": "BarkOrMeow",
+    "Author": "BailOutHere",
+    "Version": "0.0.1",
+    "Description": "Barking or meowing for either species, Q to invert your noise :3"
+  }
+}
