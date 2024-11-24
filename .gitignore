@@ -2,7 +2,10 @@
 .vs/
 *.user
 /local
+*.exe
+*.dll
 
 bin/
 obj/
-Thunderstore/
+manifestation/
+manifestation.exe

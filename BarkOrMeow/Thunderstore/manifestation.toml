@@ -1,0 +1,19 @@
+id = "BailOutHere.BarkOrMeow"
+name = "BarkOrMeow"
+description = "Allows for barking or meowing when Right Click is held."
+version = "0.0.1"
+homepage = "https://github.com/BailOutHere/Chalksave"
+author = "BailOutHere"
+assemblypath = "BarkOrMeow.dll"
+
+icon = "../../ICON.png"
+readme = "../../README.md"
+
+ # optional
+extra_files = [
+  "BarkOrMeow.dll",
+  "../../LICENSE"
+]
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.14"
